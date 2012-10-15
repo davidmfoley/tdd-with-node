@@ -12,3 +12,4 @@ global.expect = chai.expect
 global.sinon = require('sinon')
 
 require './basic_assertions'
+require './asynchronous_code'
