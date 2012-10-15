@@ -11,4 +11,4 @@ global.expect = chai.expect
 # ditto for sinon
 global.sinon = require('sinon')
 
-require './example_spec'
+require './basic_assertions'

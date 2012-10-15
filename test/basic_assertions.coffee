@@ -1,4 +1,5 @@
 describe 'Assertions with chai', ->
+  # more examples here: http://chaijs.com/api/bdd/
   describe 'comparing numbers', ->
     it 'can compare equal integers', ->
       expect(42).to.equal(42)
