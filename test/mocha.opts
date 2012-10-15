@@ -1,1 +1,1 @@
---compilers dotcoffee:coffee-script --timeout 100 -s 20
+--compilers dotcoffee:coffee-script --timeout 100 -s 20 -R spec
