@@ -20,6 +20,6 @@
   },
   "scripts" :
   {
-    "test": "mocha test/*.coffee"
+    "test": "mocha test/index.coffee"
   }
 }
