@@ -13,3 +13,4 @@ global.sinon = require('sinon')
 
 require './basic_assertions'
 require './asynchronous_code'
+require './using_sinon'
